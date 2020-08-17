@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica, Verdana;
+  text-align: center;
+}
+
+#title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333333;
+}
+
+#sentence {
+  font-size: 20px;
+}
+
+#bark-button {
+  padding: 10px 6px;
+  background-color: #ffadad;
+  color: #333333;
+  font-weight: bold;
+  max-width: 200px;
+  margin: 0 auto;
+  border-radius: 25px;
+}
+
+#bark-button:hover {
+  cursor: pointer;
+}
